@@ -9,6 +9,7 @@ gem 'devise', '~> 4.4', '>= 4.4.3'
 gem 'jquery-rails'
 gem 'paperclip', '~>6.0'
 gem 'masonry-rails', '~> 0.2.4'
+gem 'acts_as_votable', '~> 0.11.1'
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
 gem 'rails', '~> 5.2.1'
 # Use sqlite3 as the database for Active Record
